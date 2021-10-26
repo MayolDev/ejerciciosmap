@@ -84,3 +84,15 @@ grid-row-gap: 0px;
     width: 40%;
     height: 30px;
 }
+
+.contenedor-lista{
+    width: 500px;
+    margin: 30px auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.numero-ciudades{
+    color: black;
+}
